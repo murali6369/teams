@@ -1,0 +1,139 @@
+.body{
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    display: flex;
+    border-bottom: 2px solid grey;
+}
+.nav1{
+    display: flex;
+
+}
+#a{
+    height: 18px;
+    width: 18px;
+
+}
+#a1{
+    width: 130px;
+}
+.nav2{
+    display: flex;
+    padding-left: 380px;
+    padding-right: 20px;
+}
+
+.nav3{
+    display: flex;
+    border-left: 2px solid black;
+    padding-left: 20px;
+}
+.container1{
+    display: flex;
+    margin-top: 10px;
+}
+.content{
+    background: linear-gradient(135deg,rgb(212, 215, 242),rgba(246, 237, 238, 0.932));
+    height: 200px;
+    width: 350px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cont{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(194, 203, 228);
+}
+.content1{
+    background: linear-gradient(135deg,rgb(233, 246, 233),rgba(235, 217, 217, 0.932));
+    height: 200px;
+    width: 350px;
+    margin-left: 2px;
+    border-radius: 10px;
+}
+.cont1{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(221, 171, 171);
+}
+.content2{
+    background: linear-gradient(135deg,rgb(212, 215, 243),rgba(246, 237, 238, 0.932));
+    height: 200px;
+    width: 350px;
+    margin-left: 2px;
+    border-radius: 10px;
+
+}
+.cont2{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(169, 206, 184);
+}
+#pas{
+    height: max-content;
+    width: max-content;
+    background-color: gray;
+    margin-right: 250px;
+    margin-top: 70px;
+}
+.container2{
+    margin: 2px;
+    display: flex;
+}
+.container3{
+    display: flex;
+    margin: 2px;
+}
+.content3{
+    background: linear-gradient(135deg,rgba(198, 220, 231, 0.932),rgb(231, 213, 231));
+    height: 200px;
+    width: 350px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cont3{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(224, 215, 197);
+}
+.content4{
+    background: linear-gradient(135deg,rgba(233, 238, 218, 0.932),rgb(213, 214, 231));
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+}
+.cont4{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(147, 214, 153);
+}
+.content5{
+    background: linear-gradient(135deg,rgb(236, 242, 239),rgba(248, 228, 228, 0.932));
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+}
+.cont5{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(219, 219, 179);
+}
+.content6{
+    background: linear-gradient(135deg,rgb(239, 224, 224),rgb(238, 241, 231));
+    width: 350px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+.cont6{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgb(228, 216, 194);
+}
